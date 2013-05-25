@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  rating: 
+  comment: MyString
+  tip: 1.5
+
+two:
+  rating: 
+  comment: MyString
+  tip: 1.5

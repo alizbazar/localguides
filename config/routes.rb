@@ -1,4 +1,19 @@
 Localguides::Application.routes.draw do
+  
+  #root :to => ""
+
+  resources :reviews
+
+
+  resources :tours
+
+
+  resources :attractions
+
+
+  resources :users
+
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
