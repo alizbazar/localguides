@@ -3,7 +3,11 @@
 one:
   start_time: 2013-05-25
   end_time: 2013-05-25
+  guide: 1
+  tourist: 2
 
 two:
   start_time: 2013-05-25
   end_time: 2013-05-25
+  guide: 2
+  tourist: 1
